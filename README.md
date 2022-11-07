@@ -8,4 +8,4 @@ I work at the intersection of social data science and journalism to tell sociall
 - 📚 I’m currently learning D3.js
 - 🚀 Always interested in collaborating on data-driven projects
 - 👥 We can talk about dataviz and natural language processing
-- 📫 How to reach me: [@feragru](https://twitter.com/feragru)
+- 📫 How to reach me: faguirre@datacritica.org / [@feragru](https://twitter.com/feragru)
