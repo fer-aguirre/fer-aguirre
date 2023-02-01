@@ -35,6 +35,7 @@ I work at the intersection of social data science and journalism to tell stories
 
 | Repository | Description |
 | --- | --- |
+| [opportunities-db](https://github.com/fer-aguirre/opportunities-db) | Application to convert websites related to opportunities (e.g. funds, fellowships, etc.) to structured data |
 | [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Analysis of data on covid-19 deaths in Venezuela |
 | [comision-revision-bolivia](https://github.com/DataCritica/comision-revision-bolivia) | Map showing the rate of femicides in Bolivia per 100,000 women from 2013 to 2020 |
 | [escritoras-latinas](https://github.com/DataCritica/escritoras-latinas) | Web scraping of Wikipedia entries for Latin American women writers and network graph visualization |
