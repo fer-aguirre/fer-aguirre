@@ -24,6 +24,8 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [explained-recommendations](https://github.com/fer-aguirre/explained-recommendations) | API for a system recommendation explained using generative AI |
+| [cij-argentina](https://github.com/fer-aguirre/cij-argentina) | Scraper to convert PDF files from the CIJ website in Argentina into structured data |
 | [pdf-2-ner](https://github.com/fer-aguirre/pdf-2-ner) | Web application to convert scanned PDF files to text-based data and apply Named Entity Recognition (NER) to extract entities in Spanish |
 | [ner-spanish](https://github.com/fer-aguirre/ner_spanish) | A repository for extracting Named Entity Recognition (NER) in Spanish data |
 | [pmdm](https://github.com/fer-aguirre/pmdm) | Fine-tuned pre-trained language model that detects hate speech against women in Spanish and Portuguese |
