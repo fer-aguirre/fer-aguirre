@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I work at the intersection of computational social science and journalism to tell stories with the help of data. My research is broadly oriented around topics related to artificial intelligence, automation, data analysis and algorithms applied to investigative journalism.
+I work at the intersection of computational social science and journalism to tell stories with the help of data. My research is oriented around topics related to artificial intelligence, automation, data analysis and algorithms applied to investigative journalism.
 
 ### About me
 - 💻 Data analysis at [Data Crítica](https://datacritica.org/)
