@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I work at the intersection of computational social science and journalism to tell stories with the help of data. My research is oriented around topics related to artificial intelligence, automation, data analysis and algorithms applied to investigative journalism.
+I work at the intersection of computational social science and journalism to tell stories with the help of data. My research is oriented around topics related to artificial intelligence, automation and data analysis applied to investigative journalism.
 
 ### About me
 - 💻 Data analysis at [Data Crítica](https://datacritica.org/)
@@ -10,10 +10,10 @@ I work at the intersection of computational social science and journalism to tel
 - 📫 How to reach me: feraguirre@riseup.net / [@feragru](https://twitter.com/feragru) / [@feragru@noc.social](https://noc.social/@feragru)
 
 ---
+
 ### Contents
 
 - [NLP](#nlp)
-- [Automation](#automation)
 - [Data Analysis](#data-analysis)
 - [Templates](#templates)
 - [Collections](#collections)
@@ -25,7 +25,10 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [customized-headlines](https://github.com/fer-aguirre/customized-headlines) | Proof-of-concept to create customized headlines from news content based on demographic data |
 | [explained-recommendations](https://github.com/fer-aguirre/explained-recommendations) | API for a system recommendation explained using generative AI |
+| [opportunities-db](https://github.com/fer-aguirre/opportunities-db) | Scraper to extract data from opportunity-related websites (e.g. funds, scholarships, etc.) and convert them into structured data |
+| [cij-argentina](https://github.com/fer-aguirre/cij-argentina) | Scraper to convert PDF files from the CIJ website in Argentina into structured data |
 | [pdf-2-ner](https://github.com/fer-aguirre/pdf-2-ner) | Web application to convert scanned PDF files to text-based data and apply Named Entity Recognition (NER) to extract entities in Spanish |
 | [ner-spanish](https://github.com/fer-aguirre/ner_spanish) | A repository for extracting Named Entity Recognition (NER) in Spanish data |
 | [pmdm](https://github.com/fer-aguirre/pmdm) | Fine-tuned pre-trained language model that detects hate speech against women in Spanish and Portuguese |
@@ -33,16 +36,11 @@ I work at the intersection of computational social science and journalism to tel
 | [topicos-discursos-amlo](https://github.com/fer-aguirre/topicos-discursos-amlo) | Analysis with topic modeling to AMLO's speeches |
 | [bad-bunny](https://github.com/fer-aguirre/bad-bunny) | Analysis of Bad Bunny's songs |
 
-### Automation
-| Repository | Description |
-| --- | --- |
-| [opportunities-db](https://github.com/fer-aguirre/opportunities-db) | Scraper to extract data from opportunity-related websites (e.g. funds, scholarships, etc.) and convert them into structured data |
-| [cij-argentina](https://github.com/fer-aguirre/cij-argentina) | Scraper to convert PDF files from the CIJ website in Argentina into structured data |
-
 ### Data Analysis
 
 | Repository | Description |
 | --- | --- |
+| [capir-transfronteriza2-2023](https://github.com/fer-aguirre/capir-transfronteriza2-2023) | Data analysis of anti-rights groups from Brazil, Ecuador, Colombia and Honduras |
 | [migrantes-desaparecidos-eeu](https://github.com/fer-aguirre/migrantes-desaparecidos-eeuu) | Analysis of data on missing migrants en route to the U.S.  |
 | [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Analysis of data on covid-19 deaths in Venezuela |
 | [comision-revision-bolivia](https://github.com/DataCritica/comision-revision-bolivia) | Map showing the rate of femicides in Bolivia per 100,000 women from 2013 to 2020 |
