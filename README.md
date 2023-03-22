@@ -40,6 +40,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Analysis of articles talking about ChatGPT that were created with generative AI models |
 | [capir-transfronteriza2-2023](https://github.com/fer-aguirre/capir-transfronteriza2-2023) | Data analysis of anti-rights groups from Brazil, Ecuador, Colombia and Honduras |
 | [migrantes-desaparecidos-eeu](https://github.com/fer-aguirre/migrantes-desaparecidos-eeuu) | Analysis of data on missing migrants en route to the U.S.  |
 | [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Analysis of data on covid-19 deaths in Venezuela |
@@ -59,7 +60,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
-| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Taller sobre cómo usar Cookiecutter para análisis de datos en la Media Party de Buenos Aires 2023 |
+| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Taller sobre cómo usar Cookiecutter para análisis de datos. |
 | [taller-python](https://github.com/fer-aguirre/taller-python) | Jupyter notebooks for learning the basics of Python |
 | [maps-examples](https://github.com/fer-aguirre/maps-examples) | Collection of maps examples | 
 | [twitter-python](https://github.com/fer-aguirre/twitter-python) | Examples for Twitter data collection with Tweepy in Python |
