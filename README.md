@@ -40,14 +40,15 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
-| [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Analysis of articles talking about ChatGPT that were created with generative AI models |
+| [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
+| [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Data analysis of articles talking about ChatGPT that were created with generative AI models |
 | [capir-transfronteriza2-2023](https://github.com/fer-aguirre/capir-transfronteriza2-2023) | Data analysis of anti-rights groups from Brazil, Ecuador, Colombia and Honduras |
-| [migrantes-desaparecidos-eeu](https://github.com/fer-aguirre/migrantes-desaparecidos-eeuu) | Analysis of data on missing migrants en route to the U.S.  |
-| [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Analysis of data on covid-19 deaths in Venezuela |
+| [migrantes-desaparecidos-eeu](https://github.com/fer-aguirre/migrantes-desaparecidos-eeuu) | Data analysis on missing migrants en route to the U.S. |
+| [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Data analysis on covid-19 deaths in Venezuela |
 | [comision-revision-bolivia](https://github.com/DataCritica/comision-revision-bolivia) | Map showing the rate of femicides in Bolivia per 100,000 women from 2013 to 2020 |
 | [escritoras-latinas](https://github.com/DataCritica/escritoras-latinas) | Web scraping of Wikipedia entries for Latin American women writers and network graph visualization |
-| [violencia-obstetrica-cuba](https://github.com/DataCritica/violencia-obstetrica-cuba) | Analysis and visualization of data on obstetric violence in Cuba |
-| [wifi-gratuito-cdmx](https://github.com/fer-aguirre/wifi-gratuito-cdmx) | Map with locations of public free internet service in Mexico City |
+| [violencia-obstetrica-cuba](https://github.com/DataCritica/violencia-obstetrica-cuba) | Data analysis of obstetric violence in Cuba |
+| [wifi-gratuito-cdmx](https://github.com/fer-aguirre/wifi-gratuito-cdmx) | Map showing locations of public free internet service in Mexico City |
 
 ### Templates
 
@@ -60,7 +61,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
-| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Taller sobre cómo usar Cookiecutter para análisis de datos. |
+| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Workshop on how to create project templates for data analysis |
 | [taller-python](https://github.com/fer-aguirre/taller-python) | Jupyter notebooks for learning the basics of Python |
 | [maps-examples](https://github.com/fer-aguirre/maps-examples) | Collection of maps examples | 
 | [twitter-python](https://github.com/fer-aguirre/twitter-python) | Examples for Twitter data collection with Tweepy in Python |
