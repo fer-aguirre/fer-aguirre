@@ -25,6 +25,8 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [ai4foia](https://github.com/fer-aguirre/ai4foia) | Proof-of-concept to recommend recipients for FOIA requests |
+| [ hackathon-somos-nlp-2023](https://github.com/fer-aguirre/hackathon-somos-nlp-2023) | Fine-tuning LLMs for detecting hate speech categories in Spanish |
 | [customized-headlines](https://github.com/fer-aguirre/customized-headlines) | Proof-of-concept to create customized headlines from news content based on demographic data |
 | [explained-recommendations](https://github.com/fer-aguirre/explained-recommendations) | API for a system recommendation explained using generative AI |
 | [opportunities-db](https://github.com/fer-aguirre/opportunities-db) | Scraper to extract data from opportunity-related websites (e.g. funds, scholarships, etc.) and convert them into structured data |
@@ -40,6 +42,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [recomendaciones-escritoras](https://github.com/fer-aguirre/recomendaciones-escritoras) | Recommendation system for Latin American women writers |
 | [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
 | [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Data analysis of articles talking about ChatGPT that were created with generative AI models |
 | [capir-transfronteriza2-2023](https://github.com/fer-aguirre/capir-transfronteriza2-2023) | Data analysis of anti-rights groups from Brazil, Ecuador, Colombia and Honduras |
