@@ -45,7 +45,7 @@ I work at the intersection of computational social science and journalism to tel
 | [recomendaciones-escritoras](https://github.com/fer-aguirre/recomendaciones-escritoras) | Recommendation system for Latin American women writers |
 | [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
 | [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Data analysis of articles talking about ChatGPT that were created with generative AI models |
-| [capir-transfronteriza2-2023](https://github.com/fer-aguirre/capir-transfronteriza2-2023) | Data analysis of anti-rights groups from Brazil, Ecuador, Colombia and Honduras |
+| [capir-transfronteriza2-2023](https://github.com/DataCritica/capir-transfronteriza2-2023) | Data analysis and topic modeling of anti-rights groups from Brazil, Ecuador and Colombia |
 | [migrantes-desaparecidos-eeu](https://github.com/fer-aguirre/migrantes-desaparecidos-eeuu) | Data analysis on missing migrants en route to the U.S. |
 | [covid19-venezuela](https://github.com/fer-aguirre/covid19-venezuela) | Data analysis on covid-19 deaths in Venezuela |
 | [comision-revision-bolivia](https://github.com/DataCritica/comision-revision-bolivia) | Map showing the rate of femicides in Bolivia per 100,000 women from 2013 to 2020 |
