@@ -17,7 +17,7 @@ I work at the intersection of computational social science and journalism to tel
 - [Data Analysis](#data-analysis)
 - [Templates](#templates)
 - [Collections](#collections)
-- [Web Applications](#web-applications)
+- [Web Apps](#web-apps)
 
 ---
 
@@ -72,7 +72,7 @@ I work at the intersection of computational social science and journalism to tel
 | [learn-react-d3](https://github.com/fer-aguirre/learn-react-d3) | Examples for data visualization with React and D3.js |
 | [learn-scrollama](https://github.com/fer-aguirre/learn-scrollama) | Examples for scrollytelling with scrollama |
 
-### Web Applications
+### Web Apps
 
 | Repository | Description |
 | --- | --- |
