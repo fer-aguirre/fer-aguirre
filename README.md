@@ -3,11 +3,10 @@
 I work at the intersection of computational social science and journalism to tell stories with the help of data. My research is oriented to topics related to natural language processing applied to investigative journalism.
 
 ### About me
-- 💻 Data analysis at [Data Crítica](https://datacritica.org/)
-- 🐍 I mostly use Python
-- 🚀 Natural Language Processing enthusiast
+- 💻 Data analysis at [The Examination](https://www.theexamination.org/)
+- 🚀 NLP enthusiast
 - 📌 Always interested in collaborating on data-driven projects
-- 📫 How to reach me: feraguirre@riseup.net / [@feragru](https://twitter.com/feragru) / [@feragru@noc.social](https://noc.social/@feragru)
+- 📫 How to reach me: feraguirre@riseup.net
 
 ---
 
@@ -42,6 +41,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [elecciones-argentina-2023](https://github.com/DataCritica/elecciones-argentina-2023) | Data analysis of attacks against journalists in X during the elections in Argentina in 2023 |
 | [recomendaciones-escritoras](https://github.com/fer-aguirre/recomendaciones-escritoras) | Recommendation system for Latin American women writers |
 | [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
 | [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Data analysis of articles talking about ChatGPT that were created with generative AI models |
@@ -67,7 +67,7 @@ I work at the intersection of computational social science and journalism to tel
 | [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Workshop on how to create project templates for data analysis |
 | [taller-python](https://github.com/fer-aguirre/taller-python) | Jupyter notebooks for learning the basics of Python |
 | [maps-examples](https://github.com/fer-aguirre/maps-examples) | Collection of maps examples | 
-| [twitter-python](https://github.com/fer-aguirre/twitter-python) | Examples for Twitter data collection with Tweepy in Python |
+| [twitter-python](https://github.com/fer-aguirre/twitter-python) | Examples for Twitter data collection with Tweepy in Python [ARCHIVED] |
 | [learn-python](https://github.com/fer-aguirre/learn-python) | Collection of Python scripts organized by topics |
 | [learn-react-d3](https://github.com/fer-aguirre/learn-react-d3) | Examples for data visualization with React and D3.js |
 | [learn-scrollama](https://github.com/fer-aguirre/learn-scrollama) | Examples for scrollytelling with scrollama |
@@ -76,6 +76,6 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
-| [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling |
-| [mapa-huertos](https://github.com/fer-aguirre/mapa-huertos) | Map with locations of urban orchards in Mexico City |
-| [directorix-disidente](https://github.com/fer-aguirre/directorix-disidente) | Digital directory to build networks among the dissidents of Mexico City |
+| [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
+| [mapa-huertos](https://mapa-huertos.vercel.app/) | Map with locations of urban orchards in Mexico City [ARCHIVED] |
+| [directorix-disidente](https://github.com/fer-aguirre/directorix-disidente) | Digital directory of professions to build networks among the queer community of Mexico City [ARCHIVED] |
