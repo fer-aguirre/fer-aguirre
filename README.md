@@ -41,6 +41,7 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
+| [travesticidios-argentina](https://github.com/DataCritica/travesticidios-argentina) | Data analysis on court decisions on transvesticides in Argentina from 2018 to 2023 |
 | [elecciones-argentina-2023](https://github.com/DataCritica/elecciones-argentina-2023) | Data analysis of attacks against journalists in X during the elections in Argentina in 2023 |
 | [recomendaciones-escritoras](https://github.com/fer-aguirre/recomendaciones-escritoras) | Recommendation system for Latin American women writers |
 | [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
