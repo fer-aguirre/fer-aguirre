@@ -58,7 +58,8 @@ I work at the intersection of computational social science and journalism to tel
 
 | Repository | Description |
 | --- | --- |
-| [cookiecutter-data-analysis](https://github.com/fer-aguirre/cookiecutter-data-analysis) | My personal cookiecutter template for data analysis |
+| [cookiecutter-data-analysis-extensive](https://github.com/fer-aguirre/cookiecutter-data-analysis-extensive) | A cookiecutter template for data analysis projects using Python |
+| [cookiecutter-data-analysis-lite](https://github.com/fer-aguirre/cookiecutter-data-analysis-lite) | A starter template for data analysis projects that offers a simplified and beginner-friendly structure |
 | [cookiecutter-data-journalism](https://github.com/DataCritica/cookiecutter-data-journalism) | A cookiecutter template for data journalism projects using Python |
 
 ### Collections
