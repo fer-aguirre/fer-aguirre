@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-As a data journalist, my role is centered around enhancing traditional investigative journalism through data analysis. My work includes scraping and cleaning data, creating data memos, conducting research and fostering understanding of data work within the team.
+As a data journalist, I focus on data-driven investigations that expose abuses of power. My work includes scraping and cleaning data, creating data memos, conducting research and fostering understanding of data work within the team.
 
 ### About me
 
@@ -74,6 +74,7 @@ As a data journalist, my role is centered around enhancing traditional investiga
 
 | Repository | Description |
 | --- | --- |
+| [meta-threat-disruptions](https://github.com/fer-aguirre/meta-threat-disruptions/) | Track updates on Meta’s threat disruptions website |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
 | [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
 
@@ -90,7 +91,8 @@ As a data journalist, my role is centered around enhancing traditional investiga
 
 | Repository | Description |
 | --- | --- |
-| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Workshop on how to create project templates for data analysis |
+| [csvconf-nlp](https://github.com/fer-aguirre/csvconf-nlp) | Sesión de introducción a NLP en la csv,conf,v8 de Puebla, México en 2024 |
+| [taller-cookiecutter](https://github.com/fer-aguirre/taller-cookiecutter) | Taller sobre cómo crear plantillas de proyectos para análisis de datos |
 | [taller-python](https://github.com/fer-aguirre/taller-python) | Jupyter notebooks for learning the basics of Python |
 | [learn-python](https://github.com/fer-aguirre/learn-python) | Collection of Python scripts organized by topics |
 | [learn-react-d3](https://github.com/fer-aguirre/learn-react-d3) | Examples for data visualization with React and D3.js |
