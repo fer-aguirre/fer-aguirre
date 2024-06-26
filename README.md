@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-As a data journalist, my role is centered around enhancing traditional investigative journalism through data analysis. I collaborate on data-driven projects, fostering understanding of data work within the team. My work includes scraping and cleaning data, creating data memos, conducting research and translating technical investigations into audience-friendly documentation.
+As a data journalist, my role is centered around enhancing traditional investigative journalism through data analysis. My work includes scraping and cleaning data, creating data memos, conducting research and fostering understanding of data work within the team.
 
 ### About me
 
