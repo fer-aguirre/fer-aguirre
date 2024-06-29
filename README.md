@@ -27,6 +27,7 @@ As a data journalist, I focus on data-driven investigations that expose abuses o
 
 | Repository | Description |
 | --- | --- |
+| [discursos-milei](https://github.com/fer-aguirre/discursos_milei) | Scraper y análisis de discursos de Javier Milei |
 | [ai4foia](https://github.com/fer-aguirre/ai4foia) | Proof-of-concept to recommend recipients for FOIA requests |
 | [ hackathon-somos-nlp-2023](https://github.com/fer-aguirre/hackathon-somos-nlp-2023) | Fine-tuning LLMs for detecting hate speech categories in Spanish |
 | [customized-headlines](https://github.com/fer-aguirre/customized-headlines) | Proof-of-concept to create customized headlines from news content based on demographic data |
@@ -43,7 +44,7 @@ As a data journalist, I focus on data-driven investigations that expose abuses o
 | Repository | Description |
 | --- | --- |
 | [travesticidios-argentina](https://github.com/DataCritica/travesticidios-argentina) | Data analysis on court decisions on transvesticides in Argentina from 2018 to 2023 |
-| [elecciones-argentina-2023](https://github.com/DataCritica/elecciones-argentina-2023) | Data analysis of attacks against journalists in X during the elections in Argentina in 2023 |
+| [elecciones-argentina-2023](https://github.com/DataCritica/elecciones-argentina-2023) | Data analysis of attacks against journalists in Twitter during the elections in Argentina in 2023 |
 | [recomendaciones-escritoras](https://github.com/fer-aguirre/recomendaciones-escritoras) | Recommendation system for Latin American women writers |
 | [cancilleria-colombia](https://github.com/fer-aguirre/cancilleria-colombia) | Data analysis of public servants of Foreign Affairs in Colombia |
 | [gptzero-ai-articles](https://github.com/fer-aguirre/gptzero-ai-articles) | Data analysis of articles talking about ChatGPT that were created with generative AI models |
