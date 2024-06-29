@@ -75,6 +75,7 @@ As a data journalist, I focus on data-driven investigations that expose abuses o
 
 | Repository | Description |
 | --- | --- |
+| [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
 | [meta-threat-disruptions](https://github.com/fer-aguirre/meta-threat-disruptions/) | Track updates on Meta’s threat disruptions website |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
 | [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
