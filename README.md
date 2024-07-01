@@ -75,6 +75,7 @@ As a data journalist, I focus on data-driven investigations that expose abuses o
 
 | Repository | Description |
 | --- | --- |
+| [pubmed-scraper](https://github.com/fer-aguirre/pubmed-scraper) | A python command-line tool which scrapes PubMed based on keywords search and URL extraction |
 | [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
 | [meta-threat-disruptions](https://github.com/fer-aguirre/meta-threat-disruptions/) | Track updates on Meta’s threat disruptions website |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
