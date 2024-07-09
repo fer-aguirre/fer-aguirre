@@ -57,6 +57,7 @@ As a data journalist, I focus on data-driven investigations that expose abuses o
 
 | Repository | Description |
 | --- | --- |
+| [ping-pong-caba](https://github.com/fer-aguirre/ping-pong-caba) | Mapa con ubicaciones de mesas de ping pong en lugares públicos de CABA |
 | [comision-revision-bolivia](https://github.com/DataCritica/comision-revision-bolivia) | Map showing the rate of femicides in Bolivia per 100,000 women from 2013 to 2020 |
 | [escritoras-latinas](https://github.com/DataCritica/escritoras-latinas) | Web scraping of Wikipedia entries for Latin American women writers and network graph visualization |
 | [wifi-gratuito-cdmx](https://github.com/fer-aguirre/wifi-gratuito-cdmx) | Map showing locations of public free internet service in Mexico City [ARCHIVED] | 
