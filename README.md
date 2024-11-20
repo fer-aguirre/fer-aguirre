@@ -1,11 +1,11 @@
 ## Hi there! 👋
 
-As a data journalist, I focus on data-driven investigations that expose abuses of power. My work includes scraping and cleaning data, creating data memos, conducting research and fostering understanding of data work within the team.
+I work at the intersection of social data science and journalism to tell stories with the help of data.
 
 ### About me
 
 - 💻 Data analysis at [The Examination](https://www.theexamination.org/)
-- 🚀 NLP enthusiast
+- 🚀 Computational linguistics enthusiast
 - 📌 Always interested in collaborating on data-driven projects
 - 📫 How to reach me: feraguirre@riseup.net
 
