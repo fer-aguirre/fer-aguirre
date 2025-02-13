@@ -78,7 +78,6 @@ I work at the intersection of social data science and journalism to tell stories
 | --- | --- |
 | [pubmed-scraper](https://github.com/fer-aguirre/pubmed-scraper) | A python command-line tool which scrapes PubMed based on keywords search and URL extraction |
 | [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
-| [meta-threat-disruptions](https://github.com/fer-aguirre/meta-threat-disruptions/) | Track updates on Meta’s threat disruptions website |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
 | [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
 
