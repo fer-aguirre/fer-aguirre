@@ -76,6 +76,7 @@ I work at the intersection of social data science and journalism to tell stories
 
 | Repository | Description |
 | --- | --- |
+| [aircraft-data](https://observablehq.com/d/1fd5561d375df2c6) | Search for aircraft data by hex code to retrieve details like IACO type code, manufacturer, Mode S, operator flag, registered owners, registration, type, and aircraft photo. Alternatively, find hex codes by searching with registration numbers. |
 | [pubmed-scraper](https://github.com/fer-aguirre/pubmed-scraper) | A python command-line tool which scrapes PubMed based on keywords search and URL extraction |
 | [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
