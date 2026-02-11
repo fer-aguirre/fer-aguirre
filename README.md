@@ -45,6 +45,7 @@ I work at the intersection of social science and journalism to tell stories with
 | --- | --- |
 | [tidy-data-transformer](https://github.com/fer-aguirre/tidy-data-transformer) | Transforms wide-format data into long (tidy) format by unpivoting columns into rows |
 | [aircraft-data](https://observablehq.com/d/1fd5561d375df2c6) | Search aircraft data by hex code or registration numbers |
+| [forgts](https://github.com/fer-aguirre/forgts) | A package that extracts formatting from Excel files and applies it to great_tables objects |
 | [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | Python CLI tool describing changes between two numerical values |
 | [oportunidades-periodistas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Website for opportunities for journalists in Latin America |
 | [miscellaneous-scripts](https://github.com/fer-aguirre/miscellaneous-scripts) | Personal scripts for automating tasks |
