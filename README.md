@@ -4,7 +4,7 @@ I work at the intersection of social data science and journalism to tell stories
 
 ### About me
 
-- 💻 Data analysis at [The Examination](https://www.theexamination.org/)
+- 💻 Data reporter at [The Examination](https://www.theexamination.org/)
 - 🚀 Computational linguistics enthusiast
 - 📌 Always interested in collaborating on data-driven projects
 - 📫 How to reach me: feraguirre@riseup.net
@@ -13,15 +13,27 @@ I work at the intersection of social data science and journalism to tell stories
 
 ### Contents
 
+- [Tools](#tools)
 - [NLP](#nlp)
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
 - [Web Scraping](#web-scraping)
-- [Tools](#tools)
 - [Project Templates](#project-templates)
 - [Learning Resources](#learning-resources)
 
 ---
+
+### Tools
+
+| Repository | Description |
+| --- | --- |
+| [tidy-data-transformer](https://github.com/fer-aguirre/tidy-data-transformer) | This tools transforms wide-format data into long (tidy) format by unpivoting columns into rows. |
+| [miscellaneous-scripts](https://github.com/fer-aguirre/miscellaneous-scripts) | A collection of personal scripts for automating tasks. |
+| [aircraft-data](https://observablehq.com/d/1fd5561d375df2c6) | Search for aircraft data by hex code to retrieve details like IACO type code, manufacturer, Mode S, operator flag, registered owners, registration, type, and aircraft photo. Alternatively, find hex codes by searching with registration numbers. |
+| [pubmed-scraper](https://github.com/fer-aguirre/pubmed-scraper) | A python command-line tool which scrapes PubMed based on keywords search and URL extraction |
+| [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
+| [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
+| [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
 
 ### NLP
 
@@ -71,17 +83,6 @@ I work at the intersection of social data science and journalism to tell stories
 | --- | --- |
 | [cij-argentina](https://github.com/fer-aguirre/cij-argentina) | Scraper to convert PDF files from the CIJ website in Argentina into structured data |
 | [pdf-2-ner](https://github.com/fer-aguirre/pdf-2-ner) | Web application to convert scanned PDF files to text-based data and apply Named Entity Recognition (NER) to extract entities in Spanish |
-
-### Tools
-
-| Repository | Description |
-| --- | --- |
-| [aircraft-data](https://observablehq.com/d/1fd5561d375df2c6) | Search for aircraft data by hex code to retrieve details like IACO type code, manufacturer, Mode S, operator flag, registered owners, registration, type, and aircraft photo. Alternatively, find hex codes by searching with registration numbers. |
-| [pubmed-scraper](https://github.com/fer-aguirre/pubmed-scraper) | A python command-line tool which scrapes PubMed based on keywords search and URL extraction |
-| [oportunidades-perioidstas-latam](https://github.com/fer-aguirre/oportunidades-perioidstas-latam) | Sitio web para difundir oportunidades para periodistas en Latinoamérica |
-| [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | A python command-line tool which describes the change between two numerical values |
-| [data-annotator](https://github.com/fer-aguirre/data-annotator) | Web application for text-based data labeling [ARCHIVED] |
-
 
 ### Project Templates
 
