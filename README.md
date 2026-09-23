@@ -38,8 +38,8 @@ I use data, code, and open sources to dig into stories that matter across Latin 
 
 | Repository | Description |
 | --- | --- |
-| [uruguay_dua_comex](https://github.com/fer-aguirre/uruguay_dua_comex) | Data analysis of Uruguay's National Customs Directorate (DNA) foreign trade records |
-| [argentina-afip-comex](https://github.com/fer-aguirre/argentina-afip-comex) | Foreign trade data analysis using Argentina's AFIP customs records |
+| [uruguay_dua_comex](https://github.com/fer-aguirre/uruguay_dua_comex) | Python package and CLI to query foreign trade data using Uruguay's DNA customs records |
+| [argentina-afip-comex](https://github.com/fer-aguirre/argentina-afip-comex) | Python package and CLI to query foreign trade data using Argentina's AFIP customs records |
 | [indec-comex-scraper](https://github.com/fer-aguirre/indec-comex-scraper) | Python CLI and package to automate downloading foreign trade data from Argentina's INDEC API |
 | [argentrade](https://github.com/fer-aguirre/argentrade) | Data analysis of Argentine trade exchange (2014-2024) |
 
@@ -103,9 +103,9 @@ I use data, code, and open sources to dig into stories that matter across Latin 
 
 | Repository | Description |
 | --- | --- |
-| [tidy-data-transformer](https://github.com/fer-aguirre/tidy-data-transformer) | Transforms wide-format data into long (tidy) format by unpivoting columns into rows |
+| [tidy-data-transformer](https://fer-aguirre.github.io/tidy-data-transformer/) | Tool for transforming wide-format data into long (tidy) format by unpivoting columns into rows |
 | [forgts](https://github.com/fer-aguirre/forgts) | A package that extracts formatting from Excel files and applies it to great_tables objects |
-| [numerical-expressions](https://github.com/fer-aguirre/numerical-expressions) | Python CLI tool describing changes between two numerical values |
+| [numerical-expressions](https://fer-aguirre.github.io/numerical-expressions/) | A website and python CLI tool which describes the change between numerical values |
 
 </details>
 
